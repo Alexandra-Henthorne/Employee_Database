@@ -6,7 +6,8 @@ The purpose of this analysis was to use SQL and the data that we were given from
 
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-[retiring_titles.csv](https://github.com/Alexandra-Henthorne/Employee_Database/files/9256573/retiring_titles.csv)
+<img width="249" alt="Screen Shot 2022-08-03 at 9 30 05 PM" src="https://user-images.githubusercontent.com/107597779/182763525-15cc2afa-fc4d-4e44-b23a-13ee3b2715c2.png">
+
 
 * By looking at the above photo and using SQL to  breakdown the data we were able to create a table that showed us how many people were retiring per title. This helped us see which department or branch was loosing the most employees to retirement. 
 * This table essentially broke down the number of employees in the company as a number instead of a person. It didnt give us much data other than to show were HR might need to start setting up job opportunities or begin to promote .
